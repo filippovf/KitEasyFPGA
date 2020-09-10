@@ -2,7 +2,7 @@
 
 Documentação em português do kit Easy FPGA 2.1 com FPGA Altera (Intel) Cyclone IV EP4CE6E22C8. Em tempo, o "N" no final do código gravado no componente é apenas algo como a versão "normal" do componente.
 
-Esse Kit Easy FPGA tem um baixo custo e é bem popular nos sites de compras chineses. Como a documentação que vem junto com o kit deixa bastante a desejar, a intenção deste repositório é fornecer um pouco de documentção confiável em português para auxiliar aqueles que adquiraram (ou pensam em adquirir) esse produto.
+Esse Kit Easy FPGA tem um baixo custo e é bem popular nos sites de compras chineses. Como a documentação que vem junto com o kit deixa bastante a desejar, a intenção deste repositório é fornecer um pouco de documentação confiável em português para auxiliar aqueles que adquiriram (ou pensam em adquirir) esse produto.
 
 Os arquivos "EasyFPGA-InformaçõesImportantesePinagem" (PDF e XLSX) possuem a pinagem e comentários relevantes. Por exemplo configurar a tensão para 3,3V LVTTL e configurar os pinos não usados como "input tri-stated".
 
