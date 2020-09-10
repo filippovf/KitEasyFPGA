@@ -4,6 +4,8 @@ Documentação em português do kit Easy FPGA 2.1 com FPGA Altera (Intel) Cyclon
 
 Esse Kit Easy FPGA tem um baixo custo e é bem popular nos sites de compras chineses. Como a documentação que vem junto com o kit deixa bastante a desejar, a intenção deste repositório é fornecer um pouco de documentação confiável em português para auxiliar aqueles que adquiriram (ou pensam em adquirir) esse produto.
 
+![KitFPGAEasy_small](https://user-images.githubusercontent.com/39290223/92793804-1cf15780-f385-11ea-8933-53bfdfd7c324.jpg)
+
 Os arquivos "EasyFPGA-InformaçõesImportantesePinagem" (PDF e XLSX) possuem a pinagem e comentários relevantes. Por exemplo configurar a tensão para 3,3V LVTTL e configurar os pinos não usados como "input tri-stated".
 
 Há também arquivos em VHDL de exemplo. Até o momento:
