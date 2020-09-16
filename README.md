@@ -1,4 +1,4 @@
-# KitEasyFPGA
+# Kit Easy FPGA
 
 Documentação em português do kit Easy FPGA 2.1 com FPGA Altera (Intel) Cyclone IV EP4CE6E22C8. Em tempo, o "N" no final do código gravado no componente é apenas algo como a versão "normal" do componente.
 
