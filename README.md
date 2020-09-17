@@ -19,14 +19,14 @@ A ferramenta de desenvolvimento utilizada é a Intel Quartus Prime Lite, versão
 Voltando à placa, uma breve análise mais pessoal. Comprei a minha na virada de 2016 para 2017, mas o mesmo modelo ainda é vendido em setembro de 2020 quando publico este repositório. Eu a utilizo para algumas demonstrações e preparar alguns experimentos para aulas de Sistemas Reconfiguráveis. Alguns prós e contras na minha perspectiva:
 
   * Prós:
-  ** ótimo custo x benefício;
-  ** possui diversos periféricos integrados previamente;
-  ** disponibiliza todos os pinos para conexão externa / expansão;
-  ** é capaz de rodar o NIOS, o soft processor da Intel.
+    * ótimo custo x benefício;
+    * possui diversos periféricos integrados previamente;
+    * disponibiliza todos os pinos para conexão externa / expansão;
+    * é capaz de rodar o NIOS, o soft processor da Intel.
 
   * Contras:
-  ** a documentação é muito ruim e suporte do fabricante inexistente;
-  ** os botões e chaves (dip switch) estão ligados juntos, não sendo possível usá-los de modo independente. Isso obriga a frequentemente usar uma proto-board e colocar alguns botões externos.
+    * a documentação é muito ruim e suporte do fabricante inexistente;
+    * os botões e chaves (dip switch) estão ligados juntos, não sendo possível usá-los de modo independente. Isso obriga a frequentemente usar uma proto-board e colocar alguns botões externos.
 
 Em meu site e no canal do YouTube há mais conteúdos sobre Computação e Lógica Reconfigurável, PLD, FPGA, VHDL, etc.
 
