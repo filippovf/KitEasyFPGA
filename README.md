@@ -10,7 +10,7 @@ Os arquivos "EasyFPGA-InformaçõesImportantesePinagem" (PDF e XLSX) possuem a p
 
 Há também arquivos em VHDL de exemplo. Até o momento:
 
-- PortaE: um template básico de VHDL com uma porta lógica E de forma que o comportamento testado no kit bata com a função, uma vez que as chaves emitem nível lógico "0" quando acionadas e os leds também são acionados com "0)
+- PortaE: um template básico de VHDL com uma porta lógica E de forma que o comportamento testado no kit bata com a função, uma vez que as chaves emitem nível lógico "0" quando acionadas e os leds também são acionados com "0")
 
 - Conv_7Seg: um conversor para o display de 7 segmentos acionado a partir das chaves. Sem multiplexação do display.
 
