@@ -16,7 +16,7 @@ Há também arquivos em VHDL de exemplo. Até o momento:
 
 A ferramenta de desenvolvimento utilizada é a Intel Quartus Prime Lite, versão gratuita, que pode ser obtida em https://fpgasoftware.intel.com/?edition=lite.
 
-Voltando à placa, uma breve análise mais pessoal. Eu a comprei a minha na virada de 2016 para 2017, mas o mesmo modelo ainda é vendido em setembro de 2020 quando publico este repositório. Eu a utilizo para algumas demonstrações e preparar alguns experimentos para aulas de Sistemas Reconfiguráveis. Alguns prós e contras na minha perspectiva:
+Voltando à placa, uma breve análise mais pessoal. Comprei a minha na virada de 2016 para 2017, mas o mesmo modelo ainda é vendido em setembro de 2020 quando publico este repositório. Eu a utilizo para algumas demonstrações e preparar alguns experimentos para aulas de Sistemas Reconfiguráveis. Alguns prós e contras na minha perspectiva:
 
   Prós:
     - ótimo custo x benefício;
