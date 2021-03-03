@@ -1,5 +1,5 @@
 # Sobre esse Repositório (_Branch_ criado por Dualvim):      
- - Esse repositório é um _fork_ do repo criado pelo professor Fellipo Valiante Filho. [Repositório original](https://github.com/filippovf/KitEasyFPGA)     
+ - Esse repositório é um _fork_ do repo criado pelo professor Felippo Valiante Filho. [Repositório original](https://github.com/filippovf/KitEasyFPGA)     
  - O objetivo primário desse repo é criar um local para reunir documentos traduzidos para o português, e também compartilhar códigos em VHDL e em Verilog que executem no kit FPGA RZ-EasyFPGA.        
  - Sugestões e colaborações sempre serão bem-vindas aqui.     
  - Quanto a dúvidas, elas podem ser perguntadas lá na aba **Issues**. Por estar estudando FPGAs a pouco tempo, não serão todas a que poderei responder, mas nada impede de procurar pela solução.        
@@ -39,7 +39,7 @@
 ![Kit RZ-EasyFPGA A2.2](./Docs_Kit/Fotos/Descricao_Placa_Cyclone4_V2.jpg)       
         
  - Voltando à placa, uma breve análise mais pessoal. Comprei a minha na virada de 2016 para 2017, mas o mesmo modelo ainda é vendido em setembro de 2020 quando publico este repositório. Eu a utilizo para algumas demonstrações e preparar alguns experimentos para aulas de Sistemas Reconfiguráveis.        
- - Alguns prós e contras na minha perspectiva (professor Fellipo Valiante Filho):          
+ - Alguns prós e contras na minha perspectiva (professor Felippo Valiante Filho):          
 	 - **PRÓS**:
 	    - Ótimo custo x benefício;
 	    - Possui diversos periféricos integrados previamente;
